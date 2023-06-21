@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/change_color"
+        android:title="Change Color" />
+    <item
+        android:id="@+id/change_size"
+        android:title="Change Size" />
+    <item
+        android:id="@+id/change_style_bold"
+        android:title="Bold" />
+    <item
+        android:id="@+id/change_style_italic"
+        android:title="Italic" />
+</menu>
