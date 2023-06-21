@@ -1,6 +1,6 @@
-# Pass-Manager-App
+# Pass Manager App
 The application offers the following functionalities: 
 1. Login: This functionality allows users to log into the application by providing their credentials, such as username and password. Once authenticated, users can access their personal information or perform other authorized actions within the app.
 2. Register: This functionality enables new users to create an account within the application. Users can provide their desired username, password, and potentially additional information. The registration process typically involves validation to ensure unique usernames and strong passwords.
-3. Update Password: This functionality allows authenticated users to change their existing password. Users can enter their current password and provide a new password that meets the specified criteria. This ensures security and provides users with the ability to update their credentials periodically.
+3. Update Password: This functionality allows authenticated users to change their existing passwords. Users can enter their current password and provide a new password that meets the specified criteria. This ensures security and provides users with the ability to update their credentials periodically.
 4. Customize Text with Context Menu: This feature provides users with the ability to customize the appearance of text within the application using a context menu. By selecting text elements, users can access the context menu, which offers options to change the text size, font, color, or other stylistic attributes. This customization enhances the user experience by allowing personalization and adaptability to individual preferences.
